@@ -4,7 +4,7 @@
 ---
 
 ### **1. 파일 및 컴포넌트 구조**
-- `App.js`, `HealthList.jsx`, `HealthForm.jsx`, `HealthDetail.jsx` 이외의 파일은 수정하지 않는다.
+- `package.json` `App.js`, `HealthList.jsx`, `HealthForm.jsx`, `HealthDetail.jsx` 이외의 파일은 수정하지 않는다.
 - 컴포넌트의 역할과 경로는 아래 표를 따른다.
 
 | **컴포넌트명 (element)** | **역할** |
