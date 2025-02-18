@@ -11,7 +11,14 @@ const HealthList = () => {
         <Container>
             <h1>🏋️‍♂️ 운동 프로그램 목록</h1>
             <Grid>
+                {/*
+                         .map(() => (
 
+                         <HealthCard  key={     }    program={      }    />
+                         )
+
+
+                */}
             </Grid>
         </Container>
     );
